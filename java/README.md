@@ -8,4 +8,5 @@ The following notebooks will be used with a Binder environment and included in a
      * Python
 
 ## Notebooks
-[Java Client – Working With Lists](./java-working_with_lists.ipynb): cRUd operations using Aerospike and the Aerospike Java Client.  
+[Java Client – Working With Lists](./java-working_with_lists.ipynb): cRUd operations using Aerospike and the Aerospike Java Client.
+[Java Client – Working With Maps](./java-working_with_maps.ipynb): cRUd operations using Aerospike and the Aerospike Java Client.  
